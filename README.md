@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My biggest project is https://github.com/EwweKovacevic/farmmanagement which is a farm management tool which is agronomy targeted for bigger or smaller farms, It will have a tool for calculating how much time is left until a crop needs to be fertilized or when it can be harvested. I will try to partner this with Agco(https://agco.com) and other farm equipment manufacturers. Meaning you will be able to install this to your equipment so you will be able to link your equipment to our website.
+
 I'm a web developer inside of HTML, CSS and JS.
 
 I have experience in Roblox Studio coding.
