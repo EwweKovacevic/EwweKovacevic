@@ -6,6 +6,8 @@ I'm a web developer in HTML and CSS.
 
 I have experience in 3D modeling in Blender.
 
-Currently learning how to make FiveM scripts.
+Currently learning how to develop in FiveM.
+
+Also learning Discord.js.
 
 You can reach me on discord, ewwekovacevic.
