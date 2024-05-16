@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![coverage](https://img.shields.io/badge/Lua-Language?label=Language&color=8A2BE2) ![coverage](https://img.shields.io/badge/CSS-Language?label=Language&color=%230096FF)
+![coverage](https://img.shields.io/badge/HTML-Language?label=Language&color=blue) ![coverage](https://img.shields.io/badge/CSS-Language?label=Language&color=%230096FF) ![coverage](https://img.shields.io/badge/Lua-Language?label=Language&color=8A2BE2)
 
 I'm a web developer in HTML and CSS.
 
